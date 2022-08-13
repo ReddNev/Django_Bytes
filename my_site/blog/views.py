@@ -10,4 +10,4 @@ def home(request):
 
 
 def about(request):
-    return render(request, 'blog/abot.html', {'title': 'About the club Python bytes'})
+    return render(request, 'blog/abot.html', {'t"itle': 'About the club Python bytes'})
